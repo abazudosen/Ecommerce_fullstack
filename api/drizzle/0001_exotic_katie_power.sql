@@ -1,0 +1,1 @@
+ALTER TABLE "products" ADD COLUMN "quantity" double precision NOT NULL;
