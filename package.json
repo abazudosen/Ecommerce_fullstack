@@ -1,6 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^4.17.21"
+    "drizzle-zod": "^0.5.1",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/lodash": "^4.17.12"
